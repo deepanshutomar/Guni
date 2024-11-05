@@ -1,0 +1,34 @@
+setkarde calculator():
+    dikha("Simple Calculator")
+    dikha("1. Add")
+    dikha("2. Subtract")
+    dikha("3. Multiply")
+    dikha("4. Divide")
+    
+    choice = input("Enter choice (1/2/3/4): ")
+    
+    num1 = float(input("Enter first number: "))
+    num2 = float(input("Enter second number: "))
+    agar choice SameHai '1':
+        result = num1 + num2
+        dikha(f"{num1} + {num2} = {result}")
+    
+    WarnaAgar choice SameHai '2':
+        result = num1 - num2
+        dikha(f"{num1} - {num2} = {result}")
+    
+    WarnaAgar choice SameHai '3':
+        result = num1 * num2
+        dikha(f"{num1} * {num2} = {result}")
+    
+    WarnaAgar choice SameHai '4':
+        agar num2 SameHai 0:
+            dikha("Error! Division by zero")
+        Warna:
+            result = num1 / num2
+            dikha(f"{num1} / {num2} = {result}")
+    
+    Warna:
+        dikha("Invalid input")
+                
+calculator()

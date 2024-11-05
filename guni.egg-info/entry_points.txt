@@ -1,0 +1,2 @@
+[console_scripts]
+guni = Guni:main

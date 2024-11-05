@@ -1,0 +1,4 @@
+agar 10 KamHai 5:
+    dikha("10 bada hai 5 se")
+Warna:
+    dikha("5 chota hai 10 se")
