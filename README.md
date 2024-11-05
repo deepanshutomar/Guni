@@ -32,7 +32,7 @@ To get started with Guni:
 1. Write your code in a `.guni` file using Guni's Hindi syntax.
 2. Run the Guni interpreter to parse and execute the code:
    ```bash
-   python guni_interpreter.py path/to/yourfile.guni
+   python guniHi.py path/to/yourfile.guni
    ```
 
 ### Example Code
