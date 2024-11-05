@@ -1,7 +1,8 @@
 # Guni 🐍🇮🇳  
 
-*Guni ![](https://github.com/user-attachments/assets/0f2a7088-1eed-4c3e-b172-6c77d15fc8f0)
-is a Hindi-inspired programming language based on Python, designed to make coding more accessible and culturally relatable for Hindi speakers.*
+![guni](https://github.com/user-attachments/assets/1ed7b989-473d-4ee8-be44-9b05d162cf06)
+
+*Guni is a Hindi-inspired programming language based on Python, designed to make coding more accessible and culturally relatable for Hindi speakers.*
 
 ## Overview
 Guni transforms Python syntax into Hindi equivalents, allowing users to write code in Hindi-inspired keywords while maintaining Python’s functionality. This is perfect for those who want to learn programming with a more relatable syntax or simply add a cultural twist to their coding experience. Guni code is saved in `.guni` files and translated into Python for execution.
