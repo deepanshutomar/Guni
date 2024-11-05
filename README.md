@@ -38,10 +38,10 @@ To get started with Guni:
 ### Example Code
 Here's a simple program written in Guni:
 ```guni
-chaap("Namaste, duniya!")  # This will print "Namaste, duniya!" in the console
+dikha("Namaste, duniya!")  # This will print "Namaste, duniya!" in the console
 
 AakaarSeBada = Jod(7, 3)  # Adds 7 and 3 using Guni's Hindi functions
-chaap("Jama kar ke:", AakaarSeBada)
+dikha("Jama kar ke:", AakaarSeBada)
 ```
 
 ### Python Equivalent
