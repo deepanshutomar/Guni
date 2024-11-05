@@ -1,6 +1,6 @@
 # Guni 🐍🇮🇳  
 
-*Guni ![New Project (22)](https://github.com/user-attachments/assets/0f2a7088-1eed-4c3e-b172-6c77d15fc8f0)
+*Guni ![](https://github.com/user-attachments/assets/0f2a7088-1eed-4c3e-b172-6c77d15fc8f0)
 is a Hindi-inspired programming language based on Python, designed to make coding more accessible and culturally relatable for Hindi speakers.*
 
 ## Overview
